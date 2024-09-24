@@ -26,15 +26,15 @@ Fruits_vegies_classification/
 
 ### Prerequisites
 Make sure you have the following tools installed on your machine:
-- **Docker**: [Install Docker]
-- **Postman**: [Install Postman]
+- **Docker**: 
+- **Postman**: 
 - **Python 3.10+**: If running locally without Docker
 
 ### Installation
 
 #### 1. Clone the Repository
 ```bash
-git clone https://github.com/your-repo/fruits-veg-detection.git
+git clone https://github.com/Atulsah17/Fruits-and-Vegetables-Detection-and-Classification-API
 cd fruits-veg-detection
 
 2. Setup Using Docker
