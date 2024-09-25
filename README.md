@@ -11,15 +11,9 @@ This project aims to classify and count various types of fruits and vegetables u
 - **Postman Testing**: Postman can be used to test the API.
 
 ## Project Structure
-Fruits_vegies_classification/
-│
-├── app.py                            # Main Flask application
-├── Dockerfile                        # Docker configuration file
-├── requirements.txt                  # Python dependencies
-├── best.pt                           # Trained YOLO model weights
-├── Fruit_vegetable_detection.ipynb   # Model training notebook    
-├── images/                           # Sample images for testing
-├── README.md                         # Project documentation
+
+
+``` Fruits_vegies_classification/ │ ├── app.py # Main Flask application ├── Dockerfile # Docker configuration file ├── requirements.txt # Python dependencies ├── best.pt # Trained YOLO model weights ├── Fruit_vegetable_detection.ipynb # Model training notebook ├── images/ # Sample images for testing ├── README.md # Project documentation ```
 
 
 ## Getting Started
